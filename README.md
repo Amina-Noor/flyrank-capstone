@@ -15,3 +15,7 @@ This repository contains my FlyRank AI Engineering Capstone project.
 - Learn AI-assisted development
 - Build production-ready projects
 - Follow Conventional Commits
+
+## Project Structure
+
+This repository contains the setup and future phases of my FlyRank AI Engineering Capstone project.
